@@ -1,0 +1,216 @@
+canonical_identifier: bkk:krp/KR6c0012/T/v1
+canonical_location: https://kanripo.org/bkk/KR6c0012/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 摩訶般若鈔經
+  identifiers:
+    krp: KR6c0012
+    cbeta: T08n0226
+    cbeta_old_id: T08n0226
+    authorityid: CA0002269
+    json_key: T0226
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0226.xml
+    old_id: T08n0226
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0012_000-T.yaml, hash: 'sha256:ee855452b66f6ea379c107b1f4acecaa1015a4d00ede15fe6e6b5b2572f732b0'}
+  - {seq: 1, filename: KR6c0012_001-T.yaml, hash: 'sha256:8722b481ad4d262514b5658d5cd128a2bfdbb0badbfc20e5b3c6700cb93f68fa'}
+  - {seq: 2, filename: KR6c0012_002-T.yaml, hash: 'sha256:965c222d4a59d542e518b4957d7ad738677f0af6ff788e9dba1d5c4fae03cf8a'}
+  - {seq: 3, filename: KR6c0012_003-T.yaml, hash: 'sha256:9cd62bf8f553eea57459922bf845821790231511c62c3e5baaa9a5c8c1f9894f'}
+  - {seq: 4, filename: KR6c0012_004-T.yaml, hash: 'sha256:e99d82b7fd00edfcb49f3d05bf1da887ce8e95f7ccc8aa18820abdaa220dabfb'}
+  - {seq: 5, filename: KR6c0012_005-T.yaml, hash: 'sha256:e83c860b0f57829b528f01ea0768d73a99454cdaeb4340d730757a80b8635dda'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0012_000-T.markers.yaml, hash: 'sha256:6bbc2843a0edcafecc6986ee9eb377226eadb13dc6134a13090863061e75980a'}
+  - {seq: 1, role: markers, filename: assets/KR6c0012_001-T.markers.yaml, hash: 'sha256:6ceb01f1af58c23118abde2fa8e1173b641e486e3bb15e6f470519908c0e7a53'}
+  - {seq: 2, role: markers, filename: assets/KR6c0012_002-T.markers.yaml, hash: 'sha256:0712972395d143447c0b66612722eef60d7fd3d26da864ea286259217087f053'}
+  - {seq: 3, role: markers, filename: assets/KR6c0012_003-T.markers.yaml, hash: 'sha256:bd8f77068fe5473390ece1dd5567eea239c68e7df8a2a96f6b1dae8d962aab54'}
+  - {seq: 4, role: markers, filename: assets/KR6c0012_004-T.markers.yaml, hash: 'sha256:761052a2775b047516d968abcdead7b6ab2f8c846c8fa69cf77acac027b5444f'}
+  - {seq: 5, role: markers, filename: assets/KR6c0012_005-T.markers.yaml, hash: 'sha256:47bdb85915183bafb364e6db888494fbb03fe9dfaf9c60b5b0d75e2827779a13'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0012_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7284
+  label: 摩訶般若鈔經卷第一亦名長安品
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0012_T_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 1 道行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0012_T_001-mulu-2
+    span:
+    - body
+    - 4863
+    - 4863
+  label: 2 問品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0012_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9244
+  label: 摩訶般若鈔經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0012_T_002-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 3 功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0012_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7621
+  label: 摩訶般若鈔經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0012_T_003-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 4 善權品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0012_T_003-mulu-2
+    span:
+    - body
+    - 3330
+    - 3330
+  label: 5 地獄品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0012_T_003-mulu-3
+    span:
+    - body
+    - 5582
+    - 5582
+  label: 6 清淨品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0012_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 9124
+  label: 摩訶般若鈔經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0012_T_004-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 7 本無品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0012_T_004-mulu-2
+    span:
+    - body
+    - 2262
+    - 2262
+  label: 8 阿惟越致品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0012_T_004-mulu-3
+    span:
+    - body
+    - 5496
+    - 5496
+  label: 9 恒架調優婆夷品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0012_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7900
+  label: 摩訶般若鈔經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0012_T_005-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 10 守空品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0012_T_005-mulu-2
+    span:
+    - body
+    - 1806
+    - 1806
+  label: 11 遠離品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0012_T_005-mulu-3
+    span:
+    - body
+    - 5120
+    - 5120
+  label: 12 善知識品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0012_T_005-mulu-4
+    span:
+    - body
+    - 7156
+    - 7156
+  label: 13 釋提桓因品
+  type: mulu
+  level: 1
+hash: sha256:cdff417c3a9085bf8964e1565d29d33e629009139365e1564722b97c1656c624

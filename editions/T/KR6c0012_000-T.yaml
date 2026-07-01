@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0012/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 摩訶般若鈔經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0226.xml
+    old_id: T08n0226
+hash: sha256:ee855452b66f6ea379c107b1f4acecaa1015a4d00ede15fe6e6b5b2572f732b0
